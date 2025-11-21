@@ -1,4 +1,4 @@
-<h1 align="center">Image Compression Suite: Entropy, Transform & VQ Methods</h1>
+<h1 align="center">Image Compression</h1>
 
 <p align="center">
   A unified image compression system combining <b>entropy</b>, <b>transform</b>, and <b>vector quantization</b> techniques  
@@ -136,43 +136,35 @@ http://127.0.0.1:7860
 
 ### Interface Screenshot
 
-```
-![UI](assets/output_screen.jpg)
-```
+![UI](assets/output_screen.jpeg)
+
 
 ### Program Output Window
 
-```
-![Output](assets/images_output.jpg)
-```
-
----
-
-## **Input Image**
-
-```
-![Input](assets/dog_input.png)
-```
-
----
-
-## **Reconstructed Outputs (All 5 Methods)**
-
-
-![Huffman](assets/Huffman.png)
-![Arithmetic](assets/Arithmetic.png)
-![Rice](assets/rice.png)
-assets/dct.png
-assets/vq.png
+![Output](assets/images_output.jpeg)
 
 
 ---
 
-## **Comparison Graph**
+### **Input Image**
 
-```
-![Graph](assets/comparison_graph.png)
-```
+![Input](assets/input_image.jpeg)
+
+
+---
+
+### **Reconstructed Outputs**
+
+Huffman
+![Huffman](assets/Huffman.png)<br>
+Arithmetic
+![Arithmetic](assets/Arithmetic.png)<br>
+Rice
+![Rice](assets/Rice.png)<br>
+DCT
+![DCT](assets/DCT.png)<br>
+VQ
+![VQ](assets/VQ.png)
 
 ---
 
