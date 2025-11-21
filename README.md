@@ -158,13 +158,13 @@ http://127.0.0.1:7860
 
 ## **Reconstructed Outputs (All 5 Methods)**
 
-```
+
 ![Huffman](assets/Huffman.png)
 ![Arithmetic](assets/Arithmetic.png)
 ![Rice](assets/rice.png)
-![DCT](assets/dct.png)
-![VQ](assets/vq.png)
-```
+assets/dct.png
+assets/vq.png
+
 
 ---
 
